@@ -1,2 +1,2 @@
 # DesignIdeas
-Just to share design ideas 
+This is repository to learn GitHub and share some desing idea, etc.
